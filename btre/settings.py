@@ -26,7 +26,7 @@ SECRET_KEY = 'ev%+si*p!ae58q#(fg58=bsskn7@=h!%s70=(16+6soufnj2&e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','btrehome.herokuapp.com/']
 
 
 # Application definition
